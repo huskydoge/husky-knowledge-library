@@ -10,8 +10,9 @@
     "deploy": "gh-pages -d dist"
   },
   "dependencies": {
-    "compass": "^0.1.1",
-    "vue": "^3.3.4"
+    "axios": "^1.5.1",
+    "vue": "^3.3.4",
+    "vue3-markdown": "^1.1.9"
   },
   "devDependencies": {
     "@vitejs/plugin-vue": "^4.3.4",

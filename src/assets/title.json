@@ -1,0 +1,19 @@
+{
+  "How to Deploy Your Vite/Vue 3 Application in GitHub Pages 2023": [
+    {
+      "tags": [
+        "vue3",
+        "github page"
+      ],
+      "path": "notes/How to Deploy Your Vite:Vue 3 Application in GitHub Pages 2023.md"
+    }
+  ],
+  "toolList": [
+    {
+      "tags": [
+        "tools"
+      ],
+      "path": "notes/toolList.md"
+    }
+  ]
+}
