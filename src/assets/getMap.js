@@ -18,7 +18,7 @@ function extractMdContentByTag(dirPath, jsonFile) {
 
                 tags.forEach(tag => {
                     if(!data[tag]) data[tag] = [];
-                    data[tag].push({ title, tags, path: path.join(dirPath, file) });
+                    data[tag].push({ title, tags, path: path.join(dirPath, file), content: content });
                 });
             }
         }
@@ -44,7 +44,7 @@ function extractMdContentByTitle(dirPath, jsonFile) {
 
                 if (title) {
                     if (!data[title]) data[title] = [];
-                    data[title].push({ tags, path: path.join(dirPath, file) });
+                    data[title].push({ tags, path: path.join(dirPath, file), content: content});
                 }
             }
         }

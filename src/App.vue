@@ -1,11 +1,11 @@
 <script>
 import {reactive} from "vue";
-
 import axios from "axios"; // 安装axios后引入
 import markDownRender from "@/components/markDownRender.vue";
 import tagCloud from "@/components/tagCloud.vue";
 import titles from "./assets/title.json";
 import tags from "./assets/tags.json";
+
 export default {
   name: 'App',
   data() {
@@ -103,17 +103,9 @@ export default {
     },
     chooseItem(event) {
       let item = event.target.dataset.result;
-      let path = this.searchData[item][0]['path'];
       this.tags = this.searchData[item][0]['tags'];
-      axios.get('/src/assets/' + path + '?raw')
-          .then((res) => {
-            this.markdown = res.data; // res.data存储了请求的结果
-            console.log(this.markdown)
-            this.showMarkdown = true;
-          })
-          .catch((error) => {
-            console.error(error);
-          });
+      this.markdown = this.searchData[item][0]['content']
+      this.showMarkdown = true;
 
     },
     showSearch(){
