@@ -269,11 +269,10 @@ tags: [tools]
 
 
 
-* [Vue Tutorial](https://vuejs.org/guide/essentials/list.html){:target="_blank"}
-
-* [Fontawesome Usage in Latex](https://blog.csdn.net/zzq060143/article/details/89380160){:target="_blank"}, CSDN
-
-* [Subtitles Process](https://www.iflyrec.com/){:target="_blank"}, cheapest and best results.`}],Xl={"How to Deploy Your Vite/Vue 3 Application in GitHub Pages 2023":[{tags:["vue3","github page"],path:"notes/How to Deploy Your Vite:Vue 3 Application in GitHub Pages 2023.md",content:`---
+* <a href="https://vuejs.org/guide/essentials/list.html" target="_blank">Vue Tutorial</a>
+* <a href="https://blog.csdn.net/zzq060143/article/details/89380160" target="_blank">Fontawesome Usage in Latex, CSDN</a>
+* <a href="https://www.iflyrec.com/" target="_blank">Subtitles Process Tools,   cheap cost with best results.</a>
+`}],Xl={"How to Deploy Your Vite/Vue 3 Application in GitHub Pages 2023":[{tags:["vue3","github page"],path:"notes/How to Deploy Your Vite:Vue 3 Application in GitHub Pages 2023.md",content:`---
 title: "How to Deploy Your Vite/Vue 3 Application in GitHub Pages 2023"
 tags: [vue3, github page]
 ---
@@ -651,11 +650,10 @@ tags: [tools]
 
 
 
-* [Vue Tutorial](https://vuejs.org/guide/essentials/list.html){:target="_blank"}
-
-* [Fontawesome Usage in Latex](https://blog.csdn.net/zzq060143/article/details/89380160){:target="_blank"}, CSDN
-
-* [Subtitles Process](https://www.iflyrec.com/){:target="_blank"}, cheapest and best results.`}],Og={vue3:Cg,"github page":[{title:"How to Deploy Your Vite/Vue 3 Application in GitHub Pages 2023",tags:["vue3","github page"],path:"notes/How to Deploy Your Vite:Vue 3 Application in GitHub Pages 2023.md",content:`---
+* <a href="https://vuejs.org/guide/essentials/list.html" target="_blank">Vue Tutorial</a>
+* <a href="https://blog.csdn.net/zzq060143/article/details/89380160" target="_blank">Fontawesome Usage in Latex, CSDN</a>
+* <a href="https://www.iflyrec.com/" target="_blank">Subtitles Process Tools,   cheap cost with best results.</a>
+`}],Og={vue3:Cg,"github page":[{title:"How to Deploy Your Vite/Vue 3 Application in GitHub Pages 2023",tags:["vue3","github page"],path:"notes/How to Deploy Your Vite:Vue 3 Application in GitHub Pages 2023.md",content:`---
 title: "How to Deploy Your Vite/Vue 3 Application in GitHub Pages 2023"
 tags: [vue3, github page]
 ---
