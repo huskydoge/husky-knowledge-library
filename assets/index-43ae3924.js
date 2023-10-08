@@ -273,7 +273,11 @@ tags: [tools]
 
 * [Fontawesome Usage in Latex](https://blog.csdn.net/zzq060143/article/details/89380160), CSDN
 
-* [Subtitles Process](https://www.iflyrec.com/), cheapest and best results.`}],Xl={"How to Deploy Your Vite/Vue 3 Application in GitHub Pages 2023":[{tags:["vue3","github page"],path:"notes/How to Deploy Your Vite:Vue 3 Application in GitHub Pages 2023.md",content:`---
+* [Subtitles Process](https://www.iflyrec.com/), cheapest and best results.
+
+* [jpg2svg](https://jpg2svg.com/)
+
+* `}],Xl={"How to Deploy Your Vite/Vue 3 Application in GitHub Pages 2023":[{tags:["vue3","github page"],path:"notes/How to Deploy Your Vite:Vue 3 Application in GitHub Pages 2023.md",content:`---
 title: "How to Deploy Your Vite/Vue 3 Application in GitHub Pages 2023"
 tags: [vue3, github page]
 ---
@@ -655,7 +659,11 @@ tags: [tools]
 
 * [Fontawesome Usage in Latex](https://blog.csdn.net/zzq060143/article/details/89380160), CSDN
 
-* [Subtitles Process](https://www.iflyrec.com/), cheapest and best results.`}],Og={vue3:Cg,"github page":[{title:"How to Deploy Your Vite/Vue 3 Application in GitHub Pages 2023",tags:["vue3","github page"],path:"notes/How to Deploy Your Vite:Vue 3 Application in GitHub Pages 2023.md",content:`---
+* [Subtitles Process](https://www.iflyrec.com/), cheapest and best results.
+
+* [jpg2svg](https://jpg2svg.com/)
+
+* `}],Og={vue3:Cg,"github page":[{title:"How to Deploy Your Vite/Vue 3 Application in GitHub Pages 2023",tags:["vue3","github page"],path:"notes/How to Deploy Your Vite:Vue 3 Application in GitHub Pages 2023.md",content:`---
 title: "How to Deploy Your Vite/Vue 3 Application in GitHub Pages 2023"
 tags: [vue3, github page]
 ---
