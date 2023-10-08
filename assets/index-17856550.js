@@ -277,7 +277,13 @@ tags: [tools]
 
 * [jpg2svg](https://jpg2svg.com/)
 
-* `}],Xl={"How to Deploy Your Vite/Vue 3 Application in GitHub Pages 2023":[{tags:["vue3","github page"],path:"notes/How to Deploy Your Vite:Vue 3 Application in GitHub Pages 2023.md",content:`---
+
+## Video Making
+
+### Audio
+
+* [bensound](https://www.bensound.com/royalty-free-music?filters[]=Happy&filters[]=Action&category=Duration&max=125&min=107&sort=relevance)
+* [free-sound-effects](https://mixkit.co/free-sound-effects/)`}],Xl={"How to Deploy Your Vite/Vue 3 Application in GitHub Pages 2023":[{tags:["vue3","github page"],path:"notes/How to Deploy Your Vite:Vue 3 Application in GitHub Pages 2023.md",content:`---
 title: "How to Deploy Your Vite/Vue 3 Application in GitHub Pages 2023"
 tags: [vue3, github page]
 ---
@@ -663,7 +669,13 @@ tags: [tools]
 
 * [jpg2svg](https://jpg2svg.com/)
 
-* `}],Og={vue3:Cg,"github page":[{title:"How to Deploy Your Vite/Vue 3 Application in GitHub Pages 2023",tags:["vue3","github page"],path:"notes/How to Deploy Your Vite:Vue 3 Application in GitHub Pages 2023.md",content:`---
+
+## Video Making
+
+### Audio
+
+* [bensound](https://www.bensound.com/royalty-free-music?filters[]=Happy&filters[]=Action&category=Duration&max=125&min=107&sort=relevance)
+* [free-sound-effects](https://mixkit.co/free-sound-effects/)`}],Og={vue3:Cg,"github page":[{title:"How to Deploy Your Vite/Vue 3 Application in GitHub Pages 2023",tags:["vue3","github page"],path:"notes/How to Deploy Your Vite:Vue 3 Application in GitHub Pages 2023.md",content:`---
 title: "How to Deploy Your Vite/Vue 3 Application in GitHub Pages 2023"
 tags: [vue3, github page]
 ---
