@@ -19,13 +19,23 @@
       "content": "---\ntitle: \"Latex Reference\"\ntags: [latex, writing]\n---\n\n## How to refer url in latex with ref.bib\n\n在导言去加入url包，及\\usepackage{url}\n\n利用misc文献类型来书写网址参考文献，在bib文件中加入\n\n```\n@misc{trial,\nauthor = {husky},\ntitle = {husky Woof},\nhowpublished = {\\url{http://huskydoge.github.io}}\n}\n```\n\n其中author是作者，title是题目，howpublished就是要引用的网址。\n\n"
     }
   ],
+  "Git Tutorial": [
+    {
+      "tags": [
+        "Git",
+        "GitHub"
+      ],
+      "path": "notes/git-tutorial.md",
+      "content": "---\ntitle: \"Git Tutorial\"\ntags: [Git, GitHub]\n---\n\n[How to remove all DS_Store files from a git repository](https://blog.ichr.me/post/git-ignore-all-ds-store-on-mac/)"
+    }
+  ],
   "toolList": [
     {
       "tags": [
         "tools"
       ],
       "path": "notes/toolList.md",
-      "content": "---\ntitle: \"toolList\"\ntags: [tools]\n---\n\n\n\n* [Vue Tutorial](https://vuejs.org/guide/essentials/list.html)\n\n"
+      "content": "---\ntitle: \"toolList\"\ntags: [tools]\n---\n\n\n\n* [Vue Tutorial](https://vuejs.org/guide/essentials/list.html)\n\n* [Fontawesome Usage in Latex](https://blog.csdn.net/zzq060143/article/details/89380160), CSDN\n\n* [Subtitles Process](https://www.iflyrec.com/), cheapest and best results.\n\n* [jpg2svg](https://jpg2svg.com/)\n\n\n## Video Making\n\n### Audio\n\n* [bensound](https://www.bensound.com/royalty-free-music?filters[]=Happy&filters[]=Action&category=Duration&max=125&min=107&sort=relevance)\n* [free-sound-effects](https://mixkit.co/free-sound-effects/)\n* [Microsoft Speech Service](https://learn.microsoft.com/zh-CN/azure/ai-services/speech-service/language-support?tabs=tts)\n\n### video editing\n* https://wave.video/editor/#p=2b2226659ae3df80804ba6be"
     }
   ]
 }
