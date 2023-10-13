@@ -21,7 +21,7 @@ export default {
       this.entries = [];
       console.log("in cloud",this.tags)
       for (let tag in this.tags){
-        this.entries.push({label: this.tags[tag], url: "/",target: '_top'})
+        this.entries.push({label: this.tags[tag], url: "/"}) // target: '_top'+"/husky-knowledge-library"
       }
       this.settings = {
         entries: this.entries,
