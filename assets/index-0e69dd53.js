@@ -467,7 +467,14 @@ title: "Git Tutorial"
 tags: [Git, GitHub]
 ---
 
-[How to remove all DS_Store files from a git repository](https://blog.ichr.me/post/git-ignore-all-ds-store-on-mac/)`}],toolList:Mg},Cg=[{title:"How to Deploy Your Vite/Vue 3 Application in GitHub Pages 2023",tags:["vue3","github page"],path:"notes/How to Deploy Your Vite:Vue 3 Application in GitHub Pages 2023.md",content:`---
+[How to remove all DS_Store files from a git repository](https://blog.ichr.me/post/git-ignore-all-ds-store-on-mac/)
+
+## Fatal Error? Cannot Connect?
+git clone https://github.com/aboul3la/Sublist3r.git 
+直接进行clone 出现fatal：无法访问的问题, 直接在中间加上 gitclone.com/
+
+例如 git clone https://gitclone.com/github.com/aboul3la/Sublist3r.git
+`}],toolList:Mg},Cg=[{title:"How to Deploy Your Vite/Vue 3 Application in GitHub Pages 2023",tags:["vue3","github page"],path:"notes/How to Deploy Your Vite:Vue 3 Application in GitHub Pages 2023.md",content:`---
 title: "How to Deploy Your Vite/Vue 3 Application in GitHub Pages 2023"
 tags: [vue3, github page]
 ---
@@ -668,12 +675,26 @@ title: "Git Tutorial"
 tags: [Git, GitHub]
 ---
 
-[How to remove all DS_Store files from a git repository](https://blog.ichr.me/post/git-ignore-all-ds-store-on-mac/)`}],Og=[{title:"Git Tutorial",tags:["Git","GitHub"],path:"notes/git-tutorial.md",content:`---
+[How to remove all DS_Store files from a git repository](https://blog.ichr.me/post/git-ignore-all-ds-store-on-mac/)
+
+## Fatal Error? Cannot Connect?
+git clone https://github.com/aboul3la/Sublist3r.git 
+直接进行clone 出现fatal：无法访问的问题, 直接在中间加上 gitclone.com/
+
+例如 git clone https://gitclone.com/github.com/aboul3la/Sublist3r.git
+`}],Og=[{title:"Git Tutorial",tags:["Git","GitHub"],path:"notes/git-tutorial.md",content:`---
 title: "Git Tutorial"
 tags: [Git, GitHub]
 ---
 
-[How to remove all DS_Store files from a git repository](https://blog.ichr.me/post/git-ignore-all-ds-store-on-mac/)`}],Dg=[{title:"toolList",tags:["tools"],path:"notes/toolList.md",content:`---
+[How to remove all DS_Store files from a git repository](https://blog.ichr.me/post/git-ignore-all-ds-store-on-mac/)
+
+## Fatal Error? Cannot Connect?
+git clone https://github.com/aboul3la/Sublist3r.git 
+直接进行clone 出现fatal：无法访问的问题, 直接在中间加上 gitclone.com/
+
+例如 git clone https://gitclone.com/github.com/aboul3la/Sublist3r.git
+`}],Dg=[{title:"toolList",tags:["tools"],path:"notes/toolList.md",content:`---
 title: "toolList"
 tags: [tools]
 ---
